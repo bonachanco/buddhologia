@@ -1,3 +1,7 @@
 # Buddhologia
 
 ## Studia Buddhica
+
+## License
+
+Licensed under [CC BY-NC-ND 4.0](LICENSE).
