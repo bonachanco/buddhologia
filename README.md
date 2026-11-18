@@ -2,6 +2,6 @@
 
 ## Studia Buddhica
 
-## License
+### License
 
 Licensed under [CC BY-NC-ND 4.0](LICENSE).
