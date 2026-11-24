@@ -1,0 +1,11 @@
+title: Buddhologia
+description: Studia Buddhica
+baseurl: "/buddhologia"
+url: "https://bonachanco.github.io"
+github_username: bonachanco
+
+theme: jekyll-theme-hacker
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
